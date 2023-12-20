@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Olá pessoal! 👋
 
-I'm Kelvin - I'm  a back-end developer with extensive knowledge, holding a degree in computer science. I work continuously and participate in various communities on Discord. I am also part of a project in a startup.
+Eu sou o Kelvin - Desenvolvedor de aplicações back-end com amplo conhecimento, formado em Ciência da Computação. Trabalho continuamente e participo em diversas comunidades no Discord contribuindo com a comunidade de devs.
 <div align = "center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinbatista&show_icons=true&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbatista&layout=compact&theme=tokyonight"/>
@@ -13,7 +13,7 @@ I'm Kelvin - I'm  a back-end developer with extensive knowledge, holding a degre
   </a>
 </p>
 
-## Let's get connected:
+## Vamos nos conectar:
 
    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kk6ejD44)
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
