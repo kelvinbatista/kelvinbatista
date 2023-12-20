@@ -9,7 +9,7 @@ I'm Kelvin - I'm  a back-end developer with extensive knowledge, holding a degre
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,javascript,nodejs,html,css,vscode,vercel,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,py,javascript,typescript,nodejs,html,css,vscode,vercel,mysql" />
   </a>
 </p>
 
