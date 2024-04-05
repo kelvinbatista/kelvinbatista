@@ -1,5 +1,5 @@
 ### Olá pessoal! 👋
-Eu sou o Kelvin - Desenvolvedor de aplicações back-end, formado em Ciência da Computação.
+Desenvolvedor de aplicações back-end, formado em Ciência da Computação.
 
 <div align = "center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinbatista&show_icons=true&theme=tokyonight"/>
